@@ -21,7 +21,7 @@ intro:
 
     I dunno really.
     
-![cheating and copying an image code. Will it work?, that worked](img/wallhung_vs_floorstanding_wc.jpg "An image copied! in the text")
+
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
