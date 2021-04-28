@@ -12,12 +12,16 @@ intro:
     I like clean content. I think squarespace adds cruft.
 
     That might be my use of the templates thats doing that, but I need to give this a go.
-    ![cheating and copying an image code. Will it work?, that worked](img/wallhung_vs_floorstanding_wc.jpg "An image copied! in the text")
+    
+    
+    
     I also like the idea that a static site will load much faster... but I could be wrong.
 
     It might be I deploy from git to my server, and use netlify as a host backup/preview staging site?
 
     I dunno really.
+    
+![cheating and copying an image code. Will it work?, that worked](img/wallhung_vs_floorstanding_wc.jpg "An image copied! in the text")
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
