@@ -27,6 +27,10 @@ products:
       tools for every taste and experience level. No matter if you roast your
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
+  - image: img/about-sustainable-farming.jpg
+    text: OK, this is a products section. I can add a product into it and it has the
+      placeholder ready for an image to be selected. Maybe like I'd do for meet
+      the rooties.
 values:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too –
